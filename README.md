@@ -6,6 +6,7 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=88BDF2&text=noey-us&height=150&fontSize=60&desc=suyeon&descAlignY=75&descAlign=60)
 ----
 
+
 <br />
 </div>
 
@@ -16,7 +17,7 @@
   - 👀 interested in Frontend and iOS
   - 🌱 still a beginner
     
-<img align="right" width="50" src="https://github.com/user-attachments/assets/63fa8494-1d0c-4a4a-adce-08487bdda610" />
+<img align="right" width="50" src="https://github.com/user-attachments/assets/25bc1acb-faaf-471c-b55a-25cca3c03915" />
 <br />
 <br />
 <br />
