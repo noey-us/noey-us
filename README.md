@@ -10,17 +10,13 @@
 <br />
 </div>
 
-<img align="right" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noey-us&layout=compact&theme=shadow_blue&hide_border=true" /></a>
+<div align="center">
+<p>👋 Hi, I’m @noey-us</p>
+<p>👀 interested in Frontend and iOS</p>
+<p>🌱 still a beginner</p>
+</div>
 
 
-  - 👋 Hi, I’m @noey-us
-  - 👀 interested in Frontend and iOS
-  - 🌱 still a beginner
-    
-<img align="right" width="50" src="https://github.com/user-attachments/assets/25bc1acb-faaf-471c-b55a-25cca3c03915" />
-<br />
-<br />
-<br />
 <br />
 <br />
 
